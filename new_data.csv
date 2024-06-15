@@ -1,0 +1,4 @@
+,country,visits,cities
+0,France,"(12, 24, 4)","['Paris', 'Lille', 'Dijon']"
+1,Germany,"(10, 11, 8)","['Berlin', 'Hamburg', 'Stuttgart']"
+2,Russia,"(5, 6, 3)","['Moscow', 'Saint Petersburg', 'Kiev']"
